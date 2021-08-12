@@ -9,3 +9,8 @@ figure {
       border: 1px red solid;
       box-shadow: 6px 6px 0px black;
   }
+  a  {
+      font-weight: bold;
+      color: rgb(9, 20, 173);
+
+  }
